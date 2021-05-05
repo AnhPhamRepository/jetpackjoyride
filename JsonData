@@ -1,0 +1,169 @@
+{
+  "percent_show_ins": 30,
+  "ads_type": "",
+  "fan": {
+    "ins1": "",
+    "ins2": "",
+    "ins3": "",
+    "ins4": "",
+    "ins5": "",
+    "banner1": "",
+    "banner2": "",
+    "banner3": "",
+    "banner4": "",
+    "banner5": "",
+    "banner6": "",
+    "banner7": "",
+    "banner8": "",
+    "banner9": "",
+    "banner10": ""
+  },
+  "ane":{
+    "ins1":"53cbbc27-0111-4978-a3b7-14d500f40b1d",
+    "banner1": "0e5e3d29-6d3d-46aa-b492-70ad52927a8b"
+  },
+  "unt":{
+    "id": "3943909",
+    "ins1": "video",
+    "banner1": "banner"
+  },
+  "aln": "",
+  "is_force_aln": true,
+  "tou": "",
+  "characters": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Machine Gun Jetpack",
+      "info": "The Machine Gun Jetpack is the default jetpack, available from the start. It is constructed from two M61 Vulcan Miniguns and operates by shooting machine gun rounds into the ground out of them. A small ammo box containing an endless belt of bullets is mounted on top of the jetpack and continuously feeds ammo into the two machine guns.The launch pad for this jetpack is a vertical rod that attaches to the back of the jetpack and metal slots that the machine gun barrels fit into. \n Description \n The name of the Jetpack was also the working title of the game itself before being published as Jetpack Joyride. \n During the development jetpack was also disintegrading scientists instead of simply KO-ing them. This ability would later be given to the Phaser Jetpack. \n The Machine Gun Jetpack made it's first appearance as a weapon in Monster Dash, another game made by Halfbrick, which also stars Barry Steakfries. \n This is one of three jetpacks (others being the Shark Head Jetpack and the Rainbow Jetpack) to have a gold variant, in this case the Gold Platinum MGJP.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Laser Jetpack",
+      "info": "The Laser Jetpack is one of the equippable jetpacks. It is a Laser obstacle that has been given two handles, allowing it to be worn as a jetpack. The powerful red laser beam fired from the bottom is used as propulsion. \n Description: \n Strapping a harness to a stolen laser was surprisingly easy. Not burning your pants while flying is the tricky part. \n Trivia: \n The Laser Jetpack appears to KO the scientists as they are knocked over upon contact with the laser, similarly to how Barry gets fried when he touches a regular laser obstacle. \n If this is burning a group of scientists, it will only affect one scientist. \n This jetpack can smash the Flying Pig should the laser come into contact with it.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Big Bertha",
+      "info": "Big Bertha is a live cow that fires a high-powered downward blast of milk from her udder in order to fly. This jetpack does not harm the scientists, but it does frighten them. \n Description: The cause of the lab's never-ending milkshake supply. \n Trivia: The Legitimate Research lab is proven to have a field of livestock animals, namely cows, as seen in a "Hills" background in some of the laboratory tunnels, which explains this jetpack’s origin. Namely, both jetpack and the background were added in the v.1.12.6 update.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Twister Jetpack",
+      "info": "The Twister Jetpack is a large blue cylindrical jetpack with a clear container in the center and an anemometer at the top. A miniature severe storm is generated inside as the jetpack flies, and a small yet powerful tornado will be shot out of the bottom to propel it through the air. When Barry is KO’d and falls, this jetpack will break apart. \n When the tornado comes in contact with a scientist, the scientist will be swept into the vortex and thrown. When this jetpack is equipped, a cow is generated in the lab, that can be caught in the tornado as well. \n Description: Rated at F3 on the Fujita Scale, this jetpack is capable of relocating an entire house over the rainbow. \n Trivia: \n This jetpack, like the Blast Off Jetpack used to only be available on iOS devices; but as of the 1.5 update, it is available on every console. \n Jetpack's name and cows spawning in the lab are the reference to the film "Twister" . \n The description is a reference to The Wizard of Oz and the tornado that swept Dorothy’s house over the rainbow to the Land of Oz. \n Even though this jetpack blows the scientists away, it doesn't count as failing the mission on reaching certain amount of meter without harming any scientists.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Rainbow Jetpack",
+      "info": "The Rainbow Jetpack is a sleek white Jetpack with a rainbow graphic on the back. It uses a seemingly mystical power to propel Barry Steakfries into the air while a glittering, undulating light spectrum streams behind him. \n Description: The latest in rainbow harnessing technology, the Rainbow Jetpack defies physics with style. \n Trivia: Because rainbows are actually refracted light, it would be physically impossible to use light as a propulsion device, because light has no mass; this is presumably why the description says it Defies physics with style. \n This is one of three jetpacks (others being the Machine Gun Jetpack and Shark Head Jetpack) to have a gold variant, in this case the Golden Rainbow Jetpack.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Golden Piggy Pack",
+      "info": "The Golden Piggy Pack is a jetpack in the shape of a piggy-bank. It has an embossed dollar sign on the side, and purple gem eyes. When used, it fires banknotes from its back. \n If you are equipped with this jetpack, the scientists will actually chase Barry for the money expelled from the Golden Piggy Pack. \n Decription: Powered by firing 1928 issue $1000 bills, this jetpack is probably the most wasteful machine ever created. \n Trivia: \n It was originally released on Friday, February 7th, priced at 75,000 on Android, and 100,000 on iOS. \n The Golden Piggy Pack originally cost 50,000 coins, but was raised to 100,000, then lowered back to 50,000. In July 2014, it was on sale for 37,500 coins (25% off). The current price is 75,000 coins. \n The description references how 1928 was during the Roaring Twenties, an era in which the stock market was expanding. This period is notorious for people wasting money (and getting into debt) for "average" conditions. \n While scientists are attracted by this jetpacks dollar bills, they run in fear from Profit Bird, despite also dropping money. \n Unlike other jetpacks, the scientists don't change into "panic" mode when user gets a vehicle and still run towards Barry. This can also make them run towards the aformentioned Profit Bird, as if it functioned similarly to Golden Piggy Pack. \n This jetpack can help with high five scientist missions by causing scientists to run towards you. Tap the screen to trigger the chase which helps to reach the number of scientists to high five quicker. The scientists only chase after the bills, so it's recomended not to wear the Air Barrys, and 'skip' along the ground to keep releasing money. \n This jetpack could no longer attract scientists as of version 1.6.1. of the game, though the effect was reverted back from 1.7.0 onward. \n This jetpack can be used for free during Bling It On! Event, though it could only be obtained as the reward from collecting gold bars in 2015-2016 runs of the event.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "DIY Jetpack",
+      "info": "The DIY Jetpack (Short for "Do It Yourself Jetpack") is a red balloon strapped to Barry's back. It has a duct tape, presumably to cover up a hole. When Barry is KO’d, the balloon floats to the ceiling, instead of being thrown off Barry's body like other jetpacks. \n The launch pad for this jetpack is simply a metal stand with a loop that the string is tied to. \n Description: Thanks to advancements in duct tape and party supply technology, do-it-yourself jetpacks are finally a reality! \n Trivia: \n In-game the balloon has a string, but in shop, its not tied into it. \n The balloon is most likely powered by pulling the rope, so there is an air intake by the duct tape, which is quickly going out of the balloon with unusual force.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Phaser Jetpack",
+      "info": "Phaser Jetpack is a special jetpack only available as premium DLC from the Star Trek Event. This jetpack is based on the Phaser pistols from the Star Trek series. The jetpack fires small and fast red beams, that disintegrate scientists upon contact. \n Description: Vaporise your foes with this standart issue starfleet phaser rifle. \n Trivia: \n Phaser Jetpack functions similarly to how Machine Gun Jetpack used to interact with the scientists during the early developement of the game, although the amunition only goes at the straight line and in much faster speed, thus making it slightly harder to hit nearby scientists from the distance.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Buggy",
+      "desc": "Type: Land \nTips: Attempting to exit a moving vehicle can result in player damage and even instant death as long as the vehicle is moving.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    }
+  ],
+  "weapons": [
+    {
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "AKM",
+      "desc": "The AKM fires 7.62mm rounds and is just behind the Gorza in terms of damage. However, the reason the AKM is ahead of the Gorza is because of availability. The Gorza is only found in airdrops, which makes it difficult to get. The AKM, on the other hand, is available pretty much everywhere.",
+      "type": "Assault Rifles",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    }
+  ],
+  "maps": [
+    {
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "name": "Erangel",
+      "desc": "PUBG's original map, Erangel is an 8x8 island whose terrain ranges from open grasslands to tall mountains, with cities and towns mixed in-between. Two bridges connect the larger portion of the island to Erangel's Military Base, making for a dangerous route to and from the small island."
+    }
+  ],
+  "guides": [
+    {
+      "title": "Choose where to land very carefully",
+      "content": "A game of PUBG can last as long as half an hour or, if things go horribly wrong, it can all be over in a few seconds. One surefire way of exiting early is by misjudging your initial landing spot, which is why it’s first on our list of PUBG Mobile tips and tricks. \n As a general rule of thumb, you want to aim for the best loot spots in the game map you’re playing on, while also avoiding as many other players as possible. There are some particular areas that regularly spawn the best weapons and armor such as the military base, power plant, or the various major towns in the original map Erangel, but bare in mind that other seasoned players will be heading there too.Once you’ve jumped out of the cargo plane, keep an eye out for swarms of other players heading to a single location and avoid those areas like the plague. Likewise, don’t just aimlessly drift once you’re in freefall—pinpoint a safe enough area, preferably with buildings so you can grab some loot, and push forward to speed your way there. Buildings will show up as white blocks on the mini map, so make sure you’re heading in the right direction. If you can’t see one you can always open your parachute early and coast over to a decent landing zone. Just be aware that every second you spend in the sky is a second your opponents will be using to scoop up loot.",
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/1.png"
+    }
+  ]
+}
