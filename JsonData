@@ -134,9 +134,123 @@
   "weapons": [
     {
       "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
-      "name": "AKM",
-      "desc": "The AKM fires 7.62mm rounds and is just behind the Gorza in terms of damage. However, the reason the AKM is ahead of the Gorza is because of availability. The Gorza is only found in airdrops, which makes it difficult to get. The AKM, on the other hand, is available pretty much everywhere.",
-      "type": "Assault Rifles",
+      "name": "Flash",
+      "desc": "A robot dog who collects Coins, knocks over Scientists, and burns rubber. Best friends don't come any cooler than this. \n Flash is a Gadget released through Version 1.3.5 update on May 24, 2012, together with the Dezapinator and the Turbo Boost. This gadget, in a form of a robotic dog, helps players by obtaining Coins and Spin Tokens and occasionally knocks over Scientists.Flash is a Gadget released through Version 1.3.5 update on May 24, 2012, together with the Dezapinator and the Turbo Boost. This gadget, in a form of a robotic dog, helps players by obtaining Coins and Spin Tokens and occasionally knocks over Scientists.Flash is a Gadget released through Version 1.3.5 update on May 24, 2012, together with the Dezapinator and the Turbo Boost. This gadget, in a form of a robotic dog, helps players by obtaining Coins and Spin Tokens and occasionally knocks over Scientists. \n Flash is required to earn the achievement Walkies. Walkies: Take Flash on a 10km walk. This is obtained by traveling with Flash for a total of 10,000m or 10km. \n Flash receives a miniaturized version of the current Vehicle the player is using, though this is not the case with the Bad As Hog or Mr. Cuddles, where it instead hitches a ride with Barry in the aforementioned vehicles. Also note that the color of the miniaturized Vehicles change when the Golden Vehicles upgrade is applied.",
+      "type": "Flash",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "Flying Pig",
+      "desc": "This highly-unstable coin transporter was designed by a scientist with a particular fondness for physical comedy. This gadget makes some Flying Piggys appear randomly. There can be gems if the Gemology gadget is active and Double Coins if the player achieved the Double Coins on the slot. How it works: Sometimes, on the track flying yellow piggies appear. You can tell a pig is approaching as you see coins on the ground, being dropped by the pig. Wait a little and it will appear. Coins that come out from the pig this way may also be Gems if Gemology is activated. When a pig has been destroyed it will deploy a small amount of coins, which fall and bounce on the ground immediately after. Breaking the pig: Piggies can usually be broken by touching them, though there are other ways to break them. If a missile touches the pig, it will explode behind the player and it is very difficult to collect any coins from it. When using the laser jetpack, if the pig is struck by the laser, it will break, making this jetpack very useful when you need to break pigs.",
+      "type": "Flying Pig",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "Gemology",
+      "desc": "A single blingification technique that converts coins into high-value gems. For some reason it only works on coins minted in 1985. Gemology is a Gadget introduced through the Update 1.3 released on April 26, 2012. This gadget turns random coins into high-valued gems. Its icon is a picture of a octagonal-shaped ruby, a type of gemstone.",
+      "type": "Gemology",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "X-Ray Specs",
+      "desc": "This high-tech eyeware is both fashionable and functional. Now you can look inside vehicle pickups and other places you're not supposed to see. This gadget allows Barry to see what's inside a Vehicle pickup, and also examines Scientists (with the humorous effect of being able to see them in their underwear), Missiles, Spin Tokens, and Flash.",
+      "type": "X-Ray Specs",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "Ezy-Dodge Missiles",
+      "desc": "If you're going to play a game of chicken with a missile, make sure it's an Ezy-Dodge!If you're going to play a game of chicken with a missile, make sure it's an Ezy-Dodge! The Ezy-Dodge Missiles is a Gadget that was introduced in Update 1.3 on April 26, 2012. This gadget makes Missiles move slower, therefore making it easier to dodge and avoid missiles. In addition, it changes the missile warning sound into a slower version of the original sound.",
+      "type": "Ezy-Dodge Missiles",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "Free Ride",
+      "desc": "The Free Ride is one of the gadgets in Jetpack Joyride. When used, the player gets a free vehicle picked at random at the start of a run, as well as after collecting a Boost. Stop off at the motor pool before smashing through the laboratory wall. Why didn't Barry think of this earlier. Acquired when the player teleports inside the building with the Crazy Freaking Teleporter.",
+      "type": "Free Ride",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "Nerd Repellent",
+      "desc": "This patent-pending formula is so potent that the whole laboratory had to be abandoned. Nerd Repellent is a gadget which closes down the whole laboratory, and gives it an abandoned appearance. There are no scientists, tumbleweeds roll on the ground, and the red flashing lights turn off. It also makes some door lights flicker, some of the doors have cobwebs on them, and some lights flicker on and off. Although it is often overlooked due to its seemingly aesthetic use, it can be useful (e.g. if the player wants to avoid scattering or touching any scientists). It is especially helpful when trying to get the "Germaphobe" achievement, where you must travel 2 km without touching any coins, scientists or spin tokens, which can be very difficult to get without Nerd Repellent. It makes the “High Five x Scientists” missions impossible. Otherwise, its effects are mainly aesthetic, and provides a change from the normal scenery.",
+      "type": "Nerd Repellent",
       "attribute": [
         "",
         ""
