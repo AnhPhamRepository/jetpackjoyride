@@ -122,7 +122,7 @@
   ],
   "vehicles": [
     {
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/vehicel1.JPG",
       "name": "Strong Arm Machine",
       "desc": "Strong Arm Machine (or S.A.M. for short) is a huge mechanical vehicle, taking up the whole screen when used. It is only usable through the collection of 3 S.A.M. Tokens (only once a day) or by watching an advertisement at the start of the run or after death and is unobtainable through the Vehicle Pickups. It becomes available at 4:00 PM PST (24:00 UTC/GMT, 5:00 PM PST starting on March 9, 2014, which is daylight savings time). If you miss a day of S.A.M. it returns to day one. S.A.M. is a gigantic mech taking up the whole left side of the screen when activated. It comes equipped with giant treads, similar to a tank, for mobility, and a large arm with the initials “S.A.M.” emblazoned on it. The cockpit has a glass window on it, and in the front of the cockpit is where Barry Steakfries (and Flash if equipped) is seated. When it is damaged by missiles which are not blocked, the robot becomes cracked and charred, and some parts start smoking. The visual damage done depends on where the missiles strike it. When collected, the vehicle goes through three dramatic assemblage sequences (instead of one, like small vehicles). By piloting S.A.M., all Zappers and Lasers are gone, and Missiles become the only obstacle. Because of this, S.A.M.'s giant arm has a glowing barrier-like aura of energy that acts as a powerful deflective barrier. By pressing the screen, S.A.M.'s arm moves up, and when released, moves back down. The arm’s energy barrier must to be used to deflect any incoming missiles. Coins are also set up in patterns only seen by using S.A.M. S.A.M. is also unique in the fact that it can take up to 3 hits until it is defeated. When it is, it will have a slow, dramatic explosion as the screen fades white, and you return to standard gameplay.",
       "property1": 2,
@@ -131,7 +131,7 @@
       "property4": 0
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/vehicel2.JPG",
       "name": "Mr. Cuddles",
       "desc": "Mr. Cuddles is one of the various vehicles in Jetpack Joyride. He is a large robotic dragon, with green plates, a tan jaw, and red protrusions jutting from each segment of his back. Mr. Cuddles moves upwards in a slower waving pattern and pressing the screen makes him move downward. This also makes him breathe fire, which could burn scientists. Barry rides him between the two horns atop Cuddles' head. When Flash is equipped, he jumps and rides on the nose of Mr. Cuddles.",
       "property1": 2,
@@ -140,7 +140,7 @@
       "property4": 0
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/vehicel3.JPG",
       "name": "Profit Bird",
       "desc": "The Profit Bird is one of the vehicles in Jetpack Joyride. It is a mechanical red bird that Barry can ride. The controls are simmilar to the ones of the Flappy Bird: The bird gets a small height boost by touching the screen. Player has to repetitively tap the screen to make the Profit Bird flap its wings and go higher. You cannot hold a finger down as one would when using a Jetpack, Lil' Stomper, or Mr. Cuddles. When you stop tapping, it lands on the ground and slides, releasing yellow sparks. When the Profit Bird or Flash collects coins, spin tokens or event tokens, it opens its mouth to collect them and makes a happy noise, which also applies to magnetized coins. While it's flying, the Profit Bird will drop dollar bills from it's behind. When Flash is equipped as a gadget, he rides a smaller blue version of Profit Bird and helps Barry collect coins.",
       "property1": 2,
@@ -149,7 +149,7 @@
       "property4": 0
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/vehicel4.JPG",
       "name": "Bad As Hog",
       "desc": "The Bad As Hog is one of the many vehicles in Jetpack Joyride, and is the fastest vehicle of all. It first appeared in another Barry Steakfries game called Monster Dash and is a black chopper style motorcycle that Barry rides on. The controls are similar to its appearance in Monster Dash: Touching the screen makes the vehicle jump and holding down yields a longer jump. Unlike Monster Dash, where shooting requires tapping the Shoot button, the aforeentioned action is done automatically. When riding the vehicle, Barry wears a leather jacket. Purchasing the Golden Hog skin will also change the appearance of the shotgun, as it will be studded with diamonds. When riding the vehicle, Zappers will often appear near or on the floor and the Missiles are completely absent. If you equip Flash as a gadget, the Bad As Hog will have a sidecar for Flash to hop on and sit in while Barry drives.",
       "property1": 2,
@@ -158,7 +158,7 @@
       "property4": 0
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/vehicel5.JPG",
       "name": "Crazy Freaking Teleporter",
       "desc": "Crazy Freaking Teleporter (also known as The Teleporter or CFT for short) is one of the vehicles that featured in Jetpack Joyride. It is a purple teleporter with metal parts on the top and the bottom. When in action, the Crazy Freaking Teleporter will levitate with Barry encased within, and point an arrow with Barry's silhouette at the end which moves up and down with a portal sign in the middle. Tapping teleports the player to that position. Like other vehicles, the Crazy Freaking Teleporter gradually speeds up. If Flash is present, he will teleport with his own attached miniature teleporter.",
       "property1": 2,
@@ -167,7 +167,7 @@
       "property4": 0
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/vehicel6.JPG",
       "name": "Wave Rider",
       "desc": "The Wave Rider is one of the vehicles in Jetpack Joyride, first introduced in the 1.5 Update. It is a small multicolored motor boat. After getting the Wave Rider, the lab becomes flooded. Holding the touch screen make the vehicle go underwater, and  releasing makes it jump out. Touching the screen while in the air increases Wave Rider's fall speed. When the vehicle is destroyed, the flood will drain away. When equipped with Flash, he gets a Surf Board with a motor attached to it to keep up with Barry Steakfries, and he will jump upwards to collect coins and Tokens. However, Flash can sometimes jump too far and be stuck in the water temporarily before Barry overtakes him and he disappears from the screen shortly until he catches up again as normal. The scientists will swim in the water, and some will be floating in yellow duck-shaped inner-tubes.",
       "property1": 2,
@@ -176,7 +176,7 @@
       "property4": 0
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/vehicel7.JPG",
       "name": "DeLorean Time Machine",
       "desc": "DeLorean Time Machine is a vehicle that could only be obtained for a limited time when playing the Back to the Future event. However, if you bought the Back to the Future Forever Pack, you can obtain this vehicle in regular gameplay at any time. As its names states, this is a 1985 DeLorean constructed to operate as a time machine. It can fly, and travel through time when it reaches a speed of over 88 mph. Its wheels, turned upside down, have bursts of cyan fire blasting out of them. When charging, a blue aura surrounding the vehicle gets brighter, up to the point where it shoots forward like a rocket and leaves an orange fire trail behind. At this point, time freezes as the vehicle travels 800 meters. Once it reappears, blue hologram-like models of the vehicle appear twice before the actual vehicle itself appears out of thin air, and continues to move. It has futuristic mechanisms built into the back of the hood. The controls are similar to those of the Sleigh of Awesome, as touching the screen make the vehicle rise up and drop down upon being released.",
       "property1": 2,
@@ -322,32 +322,32 @@
   ],
   "maps": [
     {
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map1.JPG",
       "name": "DJ Barry",
       "desc": "DJ Barry (formerly known as DJ Headphones) is head clothing item that gives Barry Steakfries a pair of headphones. Additionally, this unique clothing item changes the standard music to a dubstep remix as a cosmetic effect when equipped. The theme can also be heard when riding default S.A.M. (Strong Arm Machine). When Barry is KO'd, the headphones fall off his head. \n Description: Are you ready to rock out? Slip on these bad boys and turn the volume up high. Slip on your headphones and rock out to an awesome dubstep remix of your favourite theme tune."
     },
 	{
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map2.JPG",
       "name": "Josie",
       "desc": "Josie is the deuteragonist of Dan the Man series, and is available as a clothing set in Jetpack Joyride. Her set consists of two clothing pieces: Josie (Head) and Josie's Threads (Suit). Both can only be earned after completing the tutorial in Battle Racing Stars and connecting to Jetpack Joyride on the same device. Her appearance in Jetpack Joyride is based on her Gone dark appearance from Stage 6 of web-series onwards: Namely, her suit is a black athletic outfit with a purple waistband and white shoes and she appears with a short dark brown hair. \n Description: A strong independent woman, who don't need no Dan. Gives its wearer the power of extreme karate butt-kicking."
     },
 	{
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map3.JPG",
       "name": "Harwood",
       "desc": "Harwood Outfit is one of the purchasable clothing sets, which consists of The Harwood Head and the Harwood Apparel. The set is based on Jason Harwood, former producer at Halfbrick, who left the company in 2016, with the costume being released at the same time. When The Harwood Head is equiped, main theme is replaced with a unique rock n' roll soundtrack. \n Description: When speakers were installed into Harwood's cranium, it turned his head into a rock n' roll concert and destroyed his sence of smell! Party on. Lean, Agile, and hard-as. A body built to high-five for science."
     },
 	{
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map4.JPG",
       "name": "Fio Germi",
       "desc": "Fiolina Fio Germi is one of the main characters in Metal Slug series and is available as one of the clothing sets in Jetpack Joyride, as part of the Metal Slug Crossover! event. The set consists of Fio Germi (Head) and Military Vest. Fio Germi has brown-orange hair and a tan cap, which disappears upon being KO'd. Military Vest is Fio's classic outfit, being a midriff-bearing white tanktop underneath the tan vest, brown shorts and dark brown boots. When Fio's head is equipped, she makes a death yell from the original games upon being KO'd. \n Description: Born into a strong military family, Fio is a seasoned warrior despite her quiet demeanor. Handy for concealing all sorts of deadly firearms."
     },
 	{
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map5.JPG",
       "name": "Crabby Crustacean",
       "desc": "Crab Outfit (Known as Crabby Crustacean in console ports of the game) is the unlockable clothing set, available through S.A.M. Prizes, though it is added to the pool only after player purchases Mecha Micro vehicle skin. The costume cosists of the Disgruntled Crab Hat and the Crabby Crab Clothes. Disgruntled Crab Hat gives Barry a red crab-shaped hat that resembles Hard to please Harwood, one of the crab judges from Fish Out of Water. When Barry is KO'd, the hat falls off his head and the eyes break apart from it. Crabby Crab Clothes gives Barry a red crustacean suit. \n Description: Wearing this crustacean hat may make you quite hard to please. Walking sideways has never been so fashionable."
     },
 	{
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map6.JPG",
       "name": "General Moustache",
       "desc": "General Moustache is the main antagonist in Colossatron: Massive World Threat and is available as one of the costumes in Jetpack Joyride, unlockable through S.A.M. Prizes, though it is added to the pool only after player purchases the Colossatron vehicle skin. The costume cosists of General Moustache's Mustache and the War Torn Uniform. General Moustache's Mustache replaces Barry's head with the one of the General Moustache. The mustache falls off his face when he is KO'd. War Torn Uniform is a green parade uniform. \n Description: Wear the most fabulos mustache in the land! The ladies just can't resist. When you're battling against a massive world threat like Colossatron all day, you don't get to dry clean very often. Stinks of freedom and napalm."
     },
