@@ -332,36 +332,61 @@
       "desc": "Josie is the deuteragonist of Dan the Man series, and is available as a clothing set in Jetpack Joyride. Her set consists of two clothing pieces: Josie (Head) and Josie's Threads (Suit). Both can only be earned after completing the tutorial in Battle Racing Stars and connecting to Jetpack Joyride on the same device. Her appearance in Jetpack Joyride is based on her Gone dark appearance from Stage 6 of web-series onwards: Namely, her suit is a black athletic outfit with a purple waistband and white shoes and she appears with a short dark brown hair. \n Description: A strong independent woman, who don't need no Dan. Gives its wearer the power of extreme karate butt-kicking."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map1.JPG",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map3.JPG",
       "name": "Harwood",
       "desc": "Harwood Outfit is one of the purchasable clothing sets, which consists of The Harwood Head and the Harwood Apparel. The set is based on Jason Harwood, former producer at Halfbrick, who left the company in 2016, with the costume being released at the same time. When The Harwood Head is equiped, main theme is replaced with a unique rock n' roll soundtrack. \n Description: When speakers were installed into Harwood's cranium, it turned his head into a rock n' roll concert and destroyed his sence of smell! Party on. Lean, Agile, and hard-as. A body built to high-five for science."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map1.JPG",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map4.JPG",
       "name": "Fio Germi",
       "desc": "Fiolina Fio Germi is one of the main characters in Metal Slug series and is available as one of the clothing sets in Jetpack Joyride, as part of the Metal Slug Crossover! event. The set consists of Fio Germi (Head) and Military Vest. Fio Germi has brown-orange hair and a tan cap, which disappears upon being KO'd. Military Vest is Fio's classic outfit, being a midriff-bearing white tanktop underneath the tan vest, brown shorts and dark brown boots. When Fio's head is equipped, she makes a death yell from the original games upon being KO'd. \n Description: Born into a strong military family, Fio is a seasoned warrior despite her quiet demeanor. Handy for concealing all sorts of deadly firearms."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map1.JPG",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map5.JPG",
       "name": "Crabby Crustacean",
       "desc": "Crab Outfit (Known as Crabby Crustacean in console ports of the game) is the unlockable clothing set, available through S.A.M. Prizes, though it is added to the pool only after player purchases Mecha Micro vehicle skin. The costume cosists of the Disgruntled Crab Hat and the Crabby Crab Clothes. Disgruntled Crab Hat gives Barry a red crab-shaped hat that resembles Hard to please Harwood, one of the crab judges from Fish Out of Water. When Barry is KO'd, the hat falls off his head and the eyes break apart from it. Crabby Crab Clothes gives Barry a red crustacean suit. \n Description: Wearing this crustacean hat may make you quite hard to please. Walking sideways has never been so fashionable."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map1.JPG",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map6.JPG",
       "name": "General Moustache",
       "desc": "General Moustache is the main antagonist in Colossatron: Massive World Threat and is available as one of the costumes in Jetpack Joyride, unlockable through S.A.M. Prizes, though it is added to the pool only after player purchases the Colossatron vehicle skin. The costume cosists of General Moustache's Mustache and the War Torn Uniform. General Moustache's Mustache replaces Barry's head with the one of the General Moustache. The mustache falls off his face when he is KO'd. War Torn Uniform is a green parade uniform. \n Description: Wear the most fabulos mustache in the land! The ladies just can't resist. When you're battling against a massive world threat like Colossatron all day, you don't get to dry clean very often. Stinks of freedom and napalm."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map1.JPG",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/map7.JPG",
       "name": "Lunar Outfit",
       "desc": "Lunar Outfit is the unlockable clothing set, consisting of the Lovely Lunar Locks and the Lunar Scout Outfit.Lovely Lunar Locks gives Barry a blonde hair with two long ponytails and small buns on the sides. When Barry is KO'd, the hair is revealed to be a wig covering his usual brown hair, as it falls off his head. Lunar Scout Outfit resembles seifuku - a typical japanese school uniform. It also gives Barry white gloves and red shoes. \n Description: Not only is this hairdo magical, but it looks really cute and it totally matches Barry's shoes. Battle evil in the moonlight and fall in love during the day ... Man, it all happens when you wear this outfit."
     }
   ],
   "guides": [
     {
-      "title": "Choose where to land very carefully",
-      "content": "A game of PUBG can last as long as half an hour or, if things go horribly wrong, it can all be over in a few seconds. One surefire way of exiting early is by misjudging your initial landing spot, which is why it’s first on our list of PUBG Mobile tips and tricks. \n As a general rule of thumb, you want to aim for the best loot spots in the game map you’re playing on, while also avoiding as many other players as possible. There are some particular areas that regularly spawn the best weapons and armor such as the military base, power plant, or the various major towns in the original map Erangel, but bare in mind that other seasoned players will be heading there too.Once you’ve jumped out of the cargo plane, keep an eye out for swarms of other players heading to a single location and avoid those areas like the plague. Likewise, don’t just aimlessly drift once you’re in freefall—pinpoint a safe enough area, preferably with buildings so you can grab some loot, and push forward to speed your way there. Buildings will show up as white blocks on the mini map, so make sure you’re heading in the right direction. If you can’t see one you can always open your parachute early and coast over to a decent landing zone. Just be aware that every second you spend in the sky is a second your opponents will be using to scoop up loot.",
-      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/1.png"
+      "title": "Game Mechanics",
+      "content": "The game mechanics are simple. The main controls involve tap, hold or release to hover, fly up or descend accordingly. These types of games have been quite popular among casual gamers. At the start, Barry will begin the game using his Machinegun jetpack that fires bullets downward, which helps him fly and collect coins that appear on the different portions of the screen. Eventually, the game introduces automatic handheld guns that will shoot when an opponent is on the screen. A normal gun will fire bullets continuously in a straight line, while if you activate a power-up you might have a gun that shoots in different directions like the CrossFire gun. There are power-ups such as the CrossFire gun to help push through some distance, they can be activated by collecting a power-up token that appears at a random place in the game, it can be identified by the shining icon with a question mark on it. There are some garage items that help on the way. These garage inventions include Big Stomper (A Mechanical Robot) which will crush anything on its way and takes all the damage. These inventions can be unlocked and managed in the garage. They can be activated by collection the token marked with a spanner on it. The challenges include dodging electric blockers, missiles and bullets and destroying or evading different enemies (melee and ranged). Melee enemies occupy a part of the screen, while ranged enemies use missiles and guns. These missiles and guns can be either targeted (will follow Barry on screen until impact or destroyed) or untargeted (only travels horizontally without deviation until impact or evaded). Earlier, Jetpack Joyride was an endless runner, but in this game, they have introduced an endpoint to each level. Scores are calculated based on the survival time and enemies destroyed. Once you reach a particular score shown on the top center, you will alert the boss. Boss levels can be tough and they will have a health bar too when you kill the boss the laboratory level ends and the new lab level opens. Each of these laboratories will have different enemies. These laboratories can be viewed under the story map option available at the bottom left corner of the main screen. The Level ends when you lose full health or if you finish off the boss. The number of games you can play continuously is affected with the introduction of energy, each and every game will consume energy which will take some time to refill.",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/guide1.JPG"
+    },
+	{
+      "title": "Powerups",
+      "content": "The Powerups can be unlocked by using the research option. Research can be carried out with the help of Research Tokens which can be obtained as a reward or sometimes rewarded by the Experience Road. When using a research token a chest is obtained, when opened, it will reward with one or more cards of any powerup. ",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/guide2.JPG"
+    },
+	{
+      "title": "Garage",
+      "content": "At the time of writing this guide, there are only 3 different inventions available at the garage, with others marked as “Coming soon”. And currently, the only way to obtain these is to collect XP and level up to obtain them from the Experience Road. These inventions can help get higher scores and finish laboratories faster.",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/guide3.JPG"
+    },
+	{
+      "title": "Upgrades",
+      "content": "The list of things that can be unlocked and upgraded includes the jetpack itself, all the power-ups, and garage inventions. Jetpack has two upgrades, one is the health and the other is attack. Each of these can be upgraded with Coins which are collected at each attempt. Jetpack can have a core, a core can be installed based on the score with gems. A powerup can be upgraded when there are enough cards obtained from the chest, to upgrade a powerup you need some coins. Most of these upgrades offer extended duration of that power-up and sometimes it also boosts the percentage of score and coins collected while it’s active. Garage items can be upgraded at certain player levels. Each upgrade will cost coins. The main improvements include additional duration, coin boost as well as score boost.",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/guide4.JPG"
+    },
+	{
+      "title": "Consumables",
+      "content": "There are different consumables like Coins, Gems, Research tokens and Energy. Coins are used to upgrade everything in the game. Gems can be used to revive Barry in the game. Research tokens are used to get new power-ups and upgrade existing ones. Each and every game need 1 Energy.",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/guide5.JPG"
+    },
+	{
+      "title": "Store",
+      "content": "The store offers all the consumables for purchase, from bundles to the energy you can get everything that you need to enjoy the game. Although purchases are not mandatory, they make the game easier to play and progress. The shop items included a Starter pack (consisted of 5000 Coins, 30 Gems, and 10 Tokens) or other consumables such as Coins (starts at 5000 coins at 10 gems and goes up to 65000 coins at 100 gems), Gems (10 gems at 135 rupees up to 500 gems at 7264.69 rupees), Research tokens (6 tokens at 9 gems up to 84 tokens at 100 gems) and Energy (5 energy for 10 gems). You can also watch ads to get a portion, although these ad-based rewards can only be obtained a set number of times per day.",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/jetpackjoyride/main/guide6.JPG"
     }
   ]
 }
